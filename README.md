@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Nati 
+# Hi there! 👋, I'm Nati 
 
 I'm a **Frontend Web Developer** who builds scalable, responsive, and impactful web applications.
 I’m currently diving deeper into **Angular** to expand my toolkit and am experienced with **React** ,**Next.js** and **Frontend Angular**.
